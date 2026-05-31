@@ -28,7 +28,7 @@
   </a>
 
   <img 
-    src="https://img.shields.io/badge/Discord%3A-acessistt-333333?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=333333" 
+    src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=333333" 
     title="Discord username: acessistt"
   />
 </div>
