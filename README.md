@@ -22,7 +22,15 @@
   <a href="mailto:mdemironder@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  
+
+  <a href="https://www.instagram.com/meteondeerr/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+
+  <img 
+    src="https://img.shields.io/badge/Discord-acessistt-333333?style=for-the-badge&logo=discord&logoColor=5865F2" 
+    title="Discord username: acessistt"
+  />
 </div>
 
 <hr/>
