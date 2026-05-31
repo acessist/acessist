@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🤖 I’m currently working on coding **autonomous bots** using **java**
+ 🤖 Currently on an FRC team known as **Laissez Faire**
  
- 📖 Currently trying to learning more about **ML and AI**
+ 📖 Trying to learning more about **ML and AI**
  
 💬 Ask me about **anything [here](https://github.com/acessist/acessist/issues)**
 
