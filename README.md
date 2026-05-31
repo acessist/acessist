@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **autonomous bots** using **java**
+ 🔭 I’m currently working on coding **autonomous bots** using **java**
  
  🌱 I’m currently learning **ML with python**
 
