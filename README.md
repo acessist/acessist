@@ -18,19 +18,10 @@
 
  </div>
 
-<div align="center"> 
-  <a href="mailto:mdemironder@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&labelColor=333333" />
-  </a>
-
-  <a href="https://www.instagram.com/meteondeerr/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=333333" />
-  </a>
-
-  <img 
-    src="https://img.shields.io/badge/Discord-acessistt-333333?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=333333" 
-    title="Discord username: acessistt"
-  />
+<div align="center">
+  <a href="mailto:mdemironder@gmail.com"><img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/meteondeerr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-333333?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+  <img src="https://img.shields.io/badge/-Discord-333333?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" title="Discord username: acessistt" />
 </div>
 
 <hr/>
