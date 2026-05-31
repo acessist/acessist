@@ -18,7 +18,7 @@
 
  </div>
 
- <div align="center"> 
+<div align="center"> 
   <a href="mailto:mdemironder@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&labelColor=333333" />
   </a>
@@ -28,7 +28,7 @@
   </a>
 
   <img 
-    src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=333333" 
+    src="https://img.shields.io/badge/Discord-acessistt-333333?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=333333" 
     title="Discord username: acessistt"
   />
 </div>
