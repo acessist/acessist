@@ -12,7 +12,7 @@
  
  🤖 Currently on an FRC team known as **Laissez Faire**
  
- 📖 Trying to learning more about **ML and AI**
+ 📖 Trying to learn more about **ML and AI**
  
 💬 Ask me about **anything [here](https://github.com/acessist/acessist/issues)**
 
