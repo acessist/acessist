@@ -16,19 +16,18 @@
 
 <div align="center">
   <a href="mailto:mdemironder@gmail.com"><img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank">
+  <a href="https://discord.com/users/1225094957891715155" target="_blank">
   <img src="https://img.shields.io/badge/-Discord-333333?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
 </a>
 </div>
 
 <hr/>
 
-<h2 align="center"> Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,python,java,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,python,java,cpp,powershell" /><br>
 </div>
-
 <br/>
 <hr/>
 
