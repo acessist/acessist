@@ -4,10 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+acessist!;" />
 </h1>
 
-<h3 align="center">A passionate scripter from Turkiye 🇹🇷</h3>
-
-<br/>
-
 <div align="center">
  
  🤖 Currently on an FRC team known as **Laissez Faire**
