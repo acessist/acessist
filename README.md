@@ -38,16 +38,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=acessist&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=8B5CF6&area=true&hide_border=true" width="100%" />
 </div>
 <br/>
-    
-<h2 align="center">Streak ⚡</h2>
-<br>
-
-<div align="center">
-  <img 
-    width="390" 
-    src="https://streak-stats.demolab.com?user=acessist&theme=react&border_radius=10" 
-    alt="streak stats"
-  />
-</div>
-
-<br/><br/>
