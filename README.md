@@ -32,12 +32,12 @@
 <hr/>
 
 <div align="center">
-<h2>My Contributions</h2>
-<br>
-<img alt="snake eating my contributions"
-     src="https://raw.githubusercontent.com/acessist/acessist/output/github-contribution-grid-snake.svg" />
-<br/><br/>
-<hr/>
+<h2 align="center">My Contributions 📈</h2>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acessist&bg_color=000000&color=FFFFFF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
+<br/>
 
 <h2 align="center">Streak ⚡</h2>
 <br>
