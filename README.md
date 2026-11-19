@@ -23,10 +23,10 @@
 
 <hr/>
 
-<h2 align="center">Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages, Frameworks & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,python,java,cpp,powershell" /><br>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,opencv,sklearn,powershell,git,github,vscode,eclipse&perline=6" />
 </div>
 <br/>
 <hr/>
