@@ -26,7 +26,7 @@
 <h2 align="center">Languages, Frameworks & Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,opencv,sklearn,powershell,git,github,vscode,eclipse&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,opencv,sklearn,powershell,git,vscode,eclipse" />
 </div>
 <br/>
 <hr/>
