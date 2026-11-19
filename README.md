@@ -32,14 +32,11 @@
 <hr/>
 
 <div align="center">
-  <h2> My Contributions :p</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/acessist/acessist/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/>
-
-  </div>
-
+<h2>My Contributions</h2>
+<br>
+<img alt="snake eating my contributions"
+     src="https://raw.githubusercontent.com/acessist/acessist/output/github-contribution-grid-snake.svg" />
+<br/><br/>
 <hr/>
 
 <h2 align="center">Streak ⚡</h2>
