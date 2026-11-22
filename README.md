@@ -26,7 +26,7 @@
 <h2 align="center">Languages ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,vscode,eclipse" />
 </div>
 <br/>
 <hr/>
